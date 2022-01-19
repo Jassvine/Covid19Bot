@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6c3efdf7-178d-41ff-b031-d35fbabc0607",
+    "data": [
+      {
+        "text": "govt announcements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8638345b-4236-4712-a18a-98f9ce65fe66",
+    "data": [
+      {
+        "text": "government announcements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd02b4e2-6d95-4a97-a758-fb29bf0b06ed",
+    "data": [
+      {
+        "text": "announcements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

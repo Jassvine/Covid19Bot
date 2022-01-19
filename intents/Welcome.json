@@ -1,0 +1,84 @@
+{
+  "id": "2f268135-2733-4200-9fad-5882443306df",
+  "name": "Welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello, hope you are staying at home and safe! Welcome to Chatbot Covid-19 Advisor. You can ask me anything related to Covid-19."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Please choose :  👇",
+          "replies": [
+            "FAQ",
+            "Live News",
+            "Help Desk",
+            "Announcements",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello, hope you are staying at home and safe ! Welcome to Covid-19 Bot. You can ask me anything related to Covid-19"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Kindly choose one option 👇",
+          "replies": [
+            "cases Country wise",
+            "cases Indian states",
+            "cases World wide",
+            "FAQ",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

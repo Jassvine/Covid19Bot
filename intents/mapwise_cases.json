@@ -1,0 +1,77 @@
+{
+  "id": "9ad12864-00bb-4734-8525-e4bae7c2926c",
+  "name": "mapwise_cases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "https://www.google.com/maps/d/viewer?mid\u003d15GjG9LJ3K4LTOcdYPuu2zjJoAPg\u0026hl\u003den\u0026usp\u003dsharing",
+          "title": "MERS Coronavirus  Cases and Sequences",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://images.app.goo.gl/7NrUdyMWghFbPUsUA",
+          "subtitle": "https://coronavirus.jhu.edu/region/malaysia",
+          "title": "Malaysia Map (John Hopkins)",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://news.google.com/covid19/map?hl\u003den-IN\u0026gl\u003dIN\u0026ceid\u003dIN:en",
+          "title": "Cases by Google",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Do you want to know more?",
+          "replies": [
+            "Show me videos",
+            "Show me images",
+            "Main Menu",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is cases  world wide on Google Map -- https://www.google.com/maps/d/viewer?mid\u003d15GjG9LJ3K4LTOcdYPuu2zjJoAPg\u0026hl\u003den\u0026usp\u003dsharing"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

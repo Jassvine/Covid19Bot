@@ -1,0 +1,81 @@
+{
+  "id": "ec1f7d37-655e-4d7b-9e89-650fcfb027ff",
+  "name": "not_send_email",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay  no problem !"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Kindly choose one option 👇",
+          "replies": [
+            "Main Menu",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay  no problem !"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Kindly choose one option 👇",
+          "replies": [
+            "Main Menu",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay  no problem, select one option 1. Main Menu 2. Exit"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

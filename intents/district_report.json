@@ -1,0 +1,66 @@
+{
+  "id": "a057ab51-c8b2-417b-853c-cc254e8bc853",
+  "name": "district_report",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "https://www.mohfw.gov.in/pdf/Districtreporting429.pdf",
+          "title": "Indian District wise👉🏻👉🏻",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.mohfw.gov.in/pdf/Districtreporting429.pdf",
+          "title": "Indian District Dtailed Report👇🏻👇🏻",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Do you want to ask some more? Kindly choose 👆  option 👇👇👇",
+          "replies": [
+            "Main Menu",
+            "Cases on Maps",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Indian District wise 👉🏻👉🏻👉🏻 - https://www.mohfw.gov.in/pdf/Districtreporting429.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

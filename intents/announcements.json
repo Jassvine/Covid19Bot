@@ -1,0 +1,72 @@
+{
+  "id": "6041bdfb-6d44-4d5a-941a-4c2fa7c8b25f",
+  "name": "announcements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.malaysiaairlines.com/mhapp/hq/en/important-notice/malaysia.html",
+          "title": "Travel News Restrictions",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://vaksincovid.protecthealth.com.my/find",
+          "title": "Booster PPV Search",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://covidnow.moh.gov.my/",
+          "title": "Covid Now",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://covid-19.moh.gov.my/",
+          "title": "Covid 19 Malaysia KKM live news alerts",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Travel restrictions : https://www.malaysiaairlines.com/mhapp/hq/en/important-notice/malaysia.html",
+            "Booster PPV Search : https://vaksincovid.protecthealth.com.my/find"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

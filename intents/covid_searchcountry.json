@@ -1,0 +1,101 @@
+{
+  "id": "3bebb5fb-f849-42f5-8c34-f16eed898081",
+  "name": "covid_searchcountry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2fa715a6-a57d-47f7-8653-0bc8e176fc3a",
+          "name": "geo-country",
+          "required": true,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter a valid country Name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are the details for $geo-country . Would you like the report to be sent to your e-mail as well?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are the details for $geo-country ."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Do you want me to send the report to your Email-Id as well ?",
+          "replies": [
+            "Sure",
+            "Not now"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are the details for $geo-country ."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "facebook",
+          "title": "Do you want me to send the report to your Email-Id as well ?",
+          "replies": [
+            "Sure",
+            "Not now"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

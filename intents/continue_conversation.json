@@ -1,0 +1,128 @@
+{
+  "id": "42266905-8af4-4a88-ad58-49270ce4c880",
+  "name": "continue_conversation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "telegram",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can ask me anything related to Covid-19 such as in regards to transmission, smoking \u0026 so on.",
+            "Or you may select from the options as shown :"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "title": "Common FAQ :",
+          "buttons": [
+            {
+              "text": "What is COVID-19?"
+            },
+            {
+              "text": "Symptoms"
+            },
+            {
+              "text": "Precautions"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Or you can select following options :",
+          "replies": [
+            "Live news",
+            "Videos"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can ask me anything related to Covid-19 .Or  you can choose below queries."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "1.  See Top FAQ below 👇👇",
+          "buttons": [
+            {
+              "text": "What is a COVID-19?"
+            },
+            {
+              "text": "What about public transport"
+            },
+            {
+              "text": "How is this coronavirus spread?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "title": "2. See Top FAQ below 👇👇",
+          "buttons": [
+            {
+              "text": "What is the government doing to contain the spread of COVID-19?"
+            },
+            {
+              "text": "Can I get the infection from eating say meat or by using products from China?"
+            },
+            {
+              "text": "Is there a vaccine against it or a medicine I can take if I get infected?"
+            }
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please tell me your query.",
+            "Please state your query."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "50e36dc7-0a76-4925-9602-438aa4372155",
+  "name": "corona_videos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.youtube.com/watch?v\u003dD9tTi-CDjDU",
+          "title": "What is COVID-19?",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.youtube.com/watch?v\u003dgpD2C-x57EE",
+          "title": "How do variants happen?",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.youtube.com/watch?v\u003dJi0TR6Q-V-U",
+          "title": "Malaysia Covid SOP",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Please choose  👇",
+          "replies": [
+            "Main Menu",
+            "Mapwise cases"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "payload": {
+                  "elements": [
+                    {
+                      "url": "https://www.facebook.com/MoHFWIndia/videos/263683921296815/",
+                      "media_type": "video"
+                    }
+                  ],
+                  "template_type": "media"
+                },
+                "type": "template"
+              }
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

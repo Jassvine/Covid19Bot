@@ -1,0 +1,83 @@
+{
+  "id": "1d1d6a1b-9532-4cbc-88b6-33000eb5bf93",
+  "name": "help_desk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf",
+          "title": "Official Helpsesk -",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://covid-19.moh.gov.my/hotline",
+          "title": "Malaysian Gov Hotline",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://mysejahtera.malaysia.gov.my/intro_en/",
+          "title": "My Sejahtera App (Malaysia)",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.who.int/about/contact-us",
+          "title": "WHO Hotline",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Do you need more help?",
+          "replies": [
+            "Main Menu",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Official helpdesk -https://www.mohfw.gov.in/pdf/coronvavirushelplinenumber.pdf"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

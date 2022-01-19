@@ -1,0 +1,54 @@
+{
+  "id": "ec1a8061-f1da-412f-89dc-d6d80e1d6ca6",
+  "name": "precautionfrom_covid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "subtitle": "https://www.youtube.com/watch?v\u003dIT7ghcGy6r0",
+          "title": "Coronavirus Precautions: What To Do \u0026 What Not To | COVID 19",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Do you want to see more about Covid-19 ? Kindly choose ☝️ option mentioned below 👇👇",
+          "replies": [
+            "Main Menu",
+            "Videos",
+            "Exit"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

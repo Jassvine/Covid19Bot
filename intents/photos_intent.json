@@ -1,0 +1,76 @@
+{
+  "id": "3631d2e8-8554-4f7e-aa52-846c776f3849",
+  "name": "photos_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "1",
+          "platform": "telegram",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/3D_medical_animation_coronavirus_structure.jpg",
+          "subtitle": "Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome",
+          "title": "Covid-19",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "2",
+          "platform": "telegram",
+          "title": "Please choose 👇🏻",
+          "replies": [
+            "Main Menu",
+            "Announcements"
+          ],
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/3D_medical_animation_coronavirus_structure.jpg",
+          "subtitle": "Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome",
+          "title": "Covid-19",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "1",
+          "platform": "facebook",
+          "subtitle": "https://www.youtube.com/watch?v\u003dPWzbArPgo-o",
+          "title": "Covid-19 Detail",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Coronaviruses are a large family of viruses known to cause respiratory infections. These can range from the common cold to more serious diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
