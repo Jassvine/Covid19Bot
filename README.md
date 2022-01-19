@@ -21,6 +21,7 @@ the Healthcare AI field.
 
 It is accessible to anyone via this Telegram link : [Chatbot Covid-19 Advisor](https://web.telegram.org/z/#2114253556)
 
+##Project Management Planning
 [Project Summary]()
 
 [Project Planning]()
