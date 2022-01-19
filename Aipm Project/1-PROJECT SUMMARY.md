@@ -1,7 +1,5 @@
 # PART 1 - PROJECT SUMMARY
 
-# Project Overview
-
 ## A. Defining the Project 
 
 ## Customer 
