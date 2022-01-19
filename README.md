@@ -1,13 +1,16 @@
-##🦠 Chatbot Covid-19 Advisor
+ # Chatbot Covid-19 Advisor🦠
 
-This system is developed by :
+## Developed by 
+
 (insert logo)
 
-# Project Manager
+## Project Manager
 Jeya Jassvine a/p Jeyabala Sundram
 
-# Project Team
+## Project Team
 Anisah Binti Kamsin
+
 Nurul Anisa Shahirah Binti Mat Ropi 
+
 Mohd Zairi Abd Ghani
 
