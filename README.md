@@ -20,3 +20,13 @@ This Chatbot is built with Dialogflow and deployed on Telegram. This project is 
 the Healthcare AI field.
 
 It is accessible to anyone via this Telegram link : [Chatbot Covid-19 Advisor](https://web.telegram.org/z/#2114253556)
+
+[Project Summary]()
+
+[Project Planning]()
+
+[Project Implementation]()
+
+[Project Execution]()
+
+[Project Closing]()
