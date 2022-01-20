@@ -16,8 +16,9 @@ Mohd Zairi Abd Ghani
 
 ## Project Overview
 
-This Chatbot is built with Dialogflow and deployed on Telegram. This project is designed to use the conversational AI technology to combat the pandemic whilst contributing to 
-the Healthcare AI field.
+This project is designed to use the conversational AI technology to combat the pandemic whilst contributing to 
+the Healthcare AI field. With the current pandemic, many informations are being passed around and can be easily manipulated, a chatbot with reliable sources
+can help overcome this. Moreover, many FAQ's commonly asked by the public can be identified via this chatbot.
 
 It is accessible to anyone via this Telegram link : [Chatbot Covid-19 Advisor](https://web.telegram.org/z/#2114253556)
 
