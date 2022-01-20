@@ -26,13 +26,14 @@ is by identifying the symptoms and the what not's to be done in order to preserv
 
 A conversational AI tool such as our Chatbot Covid-19 advisor or also known as ROCO, can be of great help and assistance to handle the huge influx of people seeking medical advice. ROCO can help users prepare themselves by providing the common FAQ's to users so they can be up to date, google map based statistics, provide images and videos in relation to covid so users can understand better and also important announcements and updates. There is also hotlines available for users to access and contact in case of an emergency. 
 
-To execute this project we are implementing Natural Language Processing techniques in which we have created a chatbot agent and provided it with intents, entities and responses. This agent will now implement Machine Learning and Natural Language Processing to match the words from the input text of the user and extract the appropriate responses. This chatbot is also quite advanced as it implemnets rich messages or also known as quick replies as well as a knowledge base that gets richer overtime as  users ask questions.
+To execute this project we are implementing Natural Language Processing techniques in which we have created a chatbot agent and provided it with intents, entities and responses. This agent will now implement Machine Learning and Natural Language Processing to match the words from the input text of the user and extract the appropriate responses. This chatbot is also quite advanced as it implements rich messages or also known as quick replies as well as a knowledge base that gets richer overtime as users ask questions.
+
 
 ## Objectives
 
 1. Reduce burden of healthcare workers when answering commonly asked questions.
 
-2. Prevent the spread of wrong and flase information.
+2. Prevent the spread of wrong and false information.
 
 3. Provide understanding and knowledge on covid and how to prevent transmission.
 
