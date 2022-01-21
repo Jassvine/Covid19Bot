@@ -39,6 +39,11 @@ The Gantt Chart is as shown below :
 | Mohd Zairi Abd Ghani | Fianncial Analyst | Handles the financial planning,analysis and projection for the project. They need to forecast future expenditures and establish course budget structures to determine capitals for the projects. |
 | Nurul Anisa Shahirah Binti Mat Ropi | Technical Manager | Making decisions for technical issues related to the project and manages project to be safe from risks and evaluates the associated tasks.   |
 
+---
+
+[⬅Project Summary](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/1-PROJECT%20SUMMARY.md)
+
+[➡Project Implementation](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/3-PROJECT%20IMPLEMENTATION.md)
 
 
 
