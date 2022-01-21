@@ -4,7 +4,7 @@
 
 ## Customer 
 
-🔴INSERT CUST
+Malaysia Health Organization (MHO)
   
 ## Project Manager
 
@@ -39,12 +39,12 @@ To execute this project we are implementing Natural Language Processing techniqu
 
 # Project Management Planning
 
-[Project Summary]()
+[Project Summary](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/1-PROJECT%20SUMMARY.md)
 
-[Project Planning]()
+[Project Planning](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/2-PROJECT%20PLANNING.md)
 
-[Project Implementation]()
+[Project Implementation](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/3-PROJECT%20IMPLEMENTATION.md)
 
-[Project Execution]()
+[Project Execution](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/4-PROJECT%20IMPLEMENTATION.md)
 
 [Project Closing]()
