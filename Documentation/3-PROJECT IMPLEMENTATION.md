@@ -21,7 +21,7 @@ The goal of cost estimation is to anticipate the quantity, cost, and price of re
 
 Microsoft Project :
 
-The Milestone Chart focuses on major events that are expected to happen at specified points throughout the programme. It was created to provide project team, manager, and stakeholders with a quick and easy overview of project status.
+The Milestone Chart focuses on major tasks expected to happen at specified points throughout the programme. 
 
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/55356959/150521563-19f2df0b-81e3-4d74-8a56-c1a774579f2a.png">
 
