@@ -57,4 +57,6 @@ Deployed on Telegram for easy access.
 
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/55356959/150538935-e1bad59a-1d69-41bd-93dc-e9a3fb0f29de.png">
 
+4. Done setting up and it is now accessible on Telegram.
+
 ---
