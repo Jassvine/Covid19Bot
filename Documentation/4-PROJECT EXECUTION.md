@@ -55,6 +55,6 @@ Deployed on Telegram for easy access.
 
 3. Deploy on telegram using BotFather and choose appropriate username
 
-<img width="512" alt="image" src="https://user-images.githubusercontent.com/55356959/150532999-e69f214b-83c7-4681-b89f-d65a3d114f8c.png">
+<img width="593" alt="image" src="https://user-images.githubusercontent.com/55356959/150538935-e1bad59a-1d69-41bd-93dc-e9a3fb0f29de.png">
 
 ---
