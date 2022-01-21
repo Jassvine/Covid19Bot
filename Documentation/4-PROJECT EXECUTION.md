@@ -102,7 +102,7 @@ Deployed on Telegram for easy access.
 ![image](https://user-images.githubusercontent.com/55356959/150543305-55ee7452-6053-45fe-8b6c-8c0f9da15a1d.png)
 
 10. There are many other information within this chatbot as it provides images and video information and is also equipped with a knowledge base that will get richer.
-    The link to the chatbot can be accessed [here](https://web.telegram.org/z/#2114253556)
+    The link to the chatbot can be accessed [here](https://web.telegram.org/z/#2114253556) .
 
 
 
