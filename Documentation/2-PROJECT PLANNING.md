@@ -2,14 +2,21 @@
 
 ## B. Planning the project
 
+## Project Management Cycle
 
-## Project Management Lifecycle
+1. Gantt Chart 
 
-![image](https://user-images.githubusercontent.com/55356959/150481525-4f85f1dd-70a3-4af2-8c8c-b808255c428d.png)
-  
-## Risk Identification Chart
+Gantt Chart is used widely to illustrate a project scheduling. AT each phase, an estimated amount of time is set and each member is responsible over their respective tasks. This Gantt Chart gives us a good perspective of time management and responsibility. 
 
+The Gantt Chart is as shown below :
 
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/55356959/150511353-60bba9f1-a88d-439c-86a5-c99d88aaa81f.png">
+
+2. Work Breakdown Structure (WBS)
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/55356959/150515021-d7ac6982-1173-4214-b0fa-52bf23ac4ef1.png">
+
+## Risk Identification Chart (RAM)
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 | :---         |     :---:      |          :---: |          :--:  |
