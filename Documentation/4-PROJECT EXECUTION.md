@@ -59,4 +59,15 @@ Deployed on Telegram for easy access.
 
 4. Done setting up and it is now accessible on Telegram.
 
+## Project Result
+
+1. The welcome message 
+
+<img width="377" alt="image" src="https://user-images.githubusercontent.com/55356959/150540623-53a6af56-30a3-4f36-b1b4-33c5a17a56e6.png">
+
+2. The bot is also integrated with rich messages (quick replies) so users can navigate themselves easily.
+
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/55356959/150540724-ef33c000-f547-4e35-93a5-8d4eb0be79f0.png">
+
+
 ---
