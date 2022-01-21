@@ -40,6 +40,6 @@ The Gantt Chart is as shown below :
 | Nurul Anisa Shahirah Binti Mat Ropi | Technical Manager | Making decisions for technical issues related to the project and manages project to be safe from risks and evaluates the associated tasks.   |
 
 
-🔴INSERT SUMMARY
+
 
 
