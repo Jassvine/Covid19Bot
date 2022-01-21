@@ -32,6 +32,8 @@ It is accessible to anyone via this Telegram link : [Chatbot Covid-19 Advisor](h
 
 [Project Summary](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/1-PROJECT%20SUMMARY.md)
 
+[Project Video}(https://youtu.be/AVdxTH6G7ys)
+
 [Project Planning](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/2-PROJECT%20PLANNING.md)
 
 [Project Implementation](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/3-PROJECT%20IMPLEMENTATION.md)
