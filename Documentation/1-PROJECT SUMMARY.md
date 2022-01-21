@@ -39,7 +39,7 @@ To execute this project we are implementing Natural Language Processing techniqu
 
 # Project Management Planning
 
-[⬅Back: ReadMe](https://github.com/Jassvine/Covid19Bot)
+[⬅ReadMe](https://github.com/Jassvine/Covid19Bot)
 
-[➡Next: Project Planning](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/2-PROJECT%20PLANNING.md)
+[➡Project Planning](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/2-PROJECT%20PLANNING.md)
 
