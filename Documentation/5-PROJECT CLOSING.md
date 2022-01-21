@@ -45,24 +45,13 @@ This is extremely crucial in the midst of a pandemic.
 JAAZ Sdn Bhd will strive to do better when needed. As of now the system can handle queries and return outputs based on intent matching as well as extracting from  a knowledge base scraped from the WHO website. 
 This technology uses NLP (response to users) and ML techniques (Knowledge base becomes richer based on user query)
 
+---
 
 ## Close Contract
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/55356959/150555965-3c5b2a0b-21cb-43b4-a59a-b69e390e9339.png">
 
 
 
+[⬅Project Execution](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/4-PROJECT%20EXECUTION.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
----
+[➡Main ](https://github.com/Jassvine/Covid19Bot)
