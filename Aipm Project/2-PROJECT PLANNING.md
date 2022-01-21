@@ -5,7 +5,7 @@
 
 ## Project Management Lifecycle
 
-🔴INSERT PIC
+![image](https://user-images.githubusercontent.com/55356959/150481525-4f85f1dd-70a3-4af2-8c8c-b808255c428d.png)
   
 ## Risk Identification Chart
 
@@ -25,7 +25,13 @@
 
 ## Team Members, Roles & Responsibility
 
-1. Jeya Jassvine A/P Jeyabala Sundram - Project Manager
+| Names | Roles | Responsibilities |
+| :---         |     :---:      |         :--:  |
+| Jeya Jassvine A/P Jeyabala Sundram | Project Manager | Oversee the entire project from beginning until complete and ensuring that they are completed in a timely fashion and within the planned budget.  |
+| Anisah Binti Kamsin | Quality Manager | In charge of supervising the production process to make sure that all products meet consistent standards. Quality managers have to understand customer needs and requirements to develop effective quality control processes. |
+| Mohd Zairi Abd Ghani | Fianncial Analyst | Handles the financial planning,analysis and projection for the project. They need to forecast future expenditures and establish course budget structures to determine capitals for the projects. |
+| Nurul Anisa Shahirah Binti Mat Ropi | Technical Manager | Making decisions for technical issues related to the project and manages project to be safe from risks and evaluates the associated tasks.   |
+
 
 🔴INSERT SUMMARY
 
