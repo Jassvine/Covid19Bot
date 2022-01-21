@@ -86,7 +86,7 @@ Deployed on Telegram for easy access.
 
 6. Live News
 
- ![image](https://user-images.githubusercontent.com/55356959/150543172-99290408-8d57-47cc-8c9a-4ccce609a849.png)
+![image](https://user-images.githubusercontent.com/55356959/150544602-6df5103f-6b69-41b3-a21c-1723bca9bab5.png)
  
 7. Help desk
 
