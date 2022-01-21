@@ -44,3 +44,7 @@ The Milestone Chart focuses on major tasks expected to happen at specified point
 
 
 ---
+
+[⬅Project Planning](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/2-PROJECT%20PLANNING.md)
+
+[➡Project Execution](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/4-PROJECT%20EXECUTION.md)
