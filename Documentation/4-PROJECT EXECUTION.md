@@ -14,12 +14,12 @@
 2. Create intents with suitable names
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/55356959/150527353-b61da8b8-f0a6-4de3-96c1-5f9939b245f3.png">
 
-Intents can be hardcoded or created via GUI. These are the intents created by our team for this project.
+   Intents can be hardcoded or created via GUI. These are the intents created by our team for this project.
 
 <img width="610" alt="image" src="https://user-images.githubusercontent.com/55356959/150528142-dbb94d98-3f63-405e-b7bd-af4f7d32496c.png">
 
 3. Inside the intent you may customise many user esperience outputs such as quick replies, adding images and useful hyperlinks.
-   Due to space constraint using images as there are many intents which contains parameters and responses, the hardcoding produced by our team in this project under the `intents`    and `entities`, here we have fully customised every intent file in our chatbot to its functionality.
+   Due to space constraint using images (as there are many intents which contains parameters and responses), the hardcoding produced by our team in this project under the          `intents` and `entities` . Here we have fully customised every intent file in our chatbot to its functionality.
    
 4. Create a knowledge base
 
