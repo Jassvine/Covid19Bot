@@ -24,7 +24,7 @@ Mohd Zairi Abd Ghani
 
 This project is designed to use the conversational AI technology to combat the pandemic whilst contributing to 
 the Healthcare AI field. With the current pandemic, many informations are being passed around and can be easily manipulated, a chatbot with reliable sources
-can help overcome this. Moreover, many FAQ's commonly asked by the public can be identified via this chatbot.
+can help overcome this. Moreover, many FAQ's commonly asked by the public can be obtained via this chatbot. Morevover, this chatbot simply aims to reduce the bruden of healthcare workers.
 
 It is accessible to anyone via this Telegram link : [Chatbot Covid-19 Advisor](https://web.telegram.org/z/#2114253556)
 
