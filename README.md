@@ -1,8 +1,8 @@
  # Chatbot Covid-19 Advisor🦠
 
 ## Developed by 
-
-(insert logo)
+ Jaaz Sdn Bhd
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/55356959/150509324-4412ee54-e494-46f0-af75-0ae37d90e731.png">
 
 ## Project Manager
 Jeya Jassvine A/P Jeyabala Sundram
