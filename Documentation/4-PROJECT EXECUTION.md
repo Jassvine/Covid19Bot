@@ -112,4 +112,4 @@ Deployed on Telegram for easy access.
 
 [⬅Project Implementation](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/3-PROJECT%20IMPLEMENTATION.md)
 
-[➡Project Closing](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/5-PROJECT%20CLOSING)
+[➡Project Closing](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/5-PROJECT%20CLOSING.md)
