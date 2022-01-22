@@ -1,4 +1,4 @@
-# 👓 PROJECT OVERVIEW 
+# PART 5 - PROJECT CLOSING
 ## E. COMPLETING THE PROJECT
 
 ![Closing document.pdf](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/Closing%20document.pdf)
