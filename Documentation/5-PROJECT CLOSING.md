@@ -56,4 +56,4 @@ This technology uses NLP (response to users) and ML techniques (Knowledge base b
 
 [➡Main ](https://github.com/Jassvine/Covid19Bot)
 
-[➡Demo Video](https://www.youtube.com/watch?v=AVdxTH6G7ys&feature=youtu.be)
+[➡Demo Video](https://youtu.be/yzUAclwy4cc)
