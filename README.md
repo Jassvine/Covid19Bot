@@ -40,4 +40,4 @@ It is accessible to anyone via this Telegram link : [Chatbot Covid-19 Advisor](h
 
 [Project Closing](https://github.com/Jassvine/Covid19Bot/blob/main/Documentation/5-PROJECT%20CLOSING.md)
 
-[Project Video](https://youtu.be/AVdxTH6G7ys)
+[Project Video](https://youtu.be/yzUAclwy4cc)
