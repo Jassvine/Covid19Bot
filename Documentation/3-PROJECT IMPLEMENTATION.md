@@ -1,4 +1,4 @@
-# 👓 PROJECT OVERVIEW
+# �PART 3 - PROJECT OVERVIEW
 ## C. IMPLEMENTING THE PROJECT PLAN
 ## Deliverables
 1. WBS Structure
